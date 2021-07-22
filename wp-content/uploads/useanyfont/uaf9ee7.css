@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'brandmark1-bold';
+					src: url('191106101228Brandmark1-Bold.woff') format('woff');
+					font-display: auto;
+				}
+
+				.brandmark1-bold{font-family: 'brandmark1-bold' !important;}
+
+						h1{
+					font-family: 'brandmark1-bold' !important;
+				}
+		
